@@ -1,0 +1,19 @@
+﻿# Xcode
+build/
+DerivedData/
+*.xcuserstate
+project.xcworkspace/
+userdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secret encryption key (NEVER commit to git)
+.secret_key
+scripts/__pycache__/
+__pycache__/
+
+# Plain source code (Kept locally only, never pushed unencrypted to GitHub)
+EcovacsNoiDiaVN/
+EcovacsNoiDiaVN.xcodeproj/
