@@ -1,4 +1,4 @@
-﻿# Xcode
+# Xcode
 build/
 DerivedData/
 *.xcuserstate
@@ -13,6 +13,12 @@ Thumbs.db
 .secret_key
 scripts/__pycache__/
 __pycache__/
+scripts/test_*.py
+scripts/check_*.py
+scripts/clean_*.py
+scripts/monitor_*.py
+scripts/purge_*.py
+scripts/full_test.py
 
 # Plain source code (Kept locally only, never pushed unencrypted to GitHub)
 EcovacsNoiDiaVN/
